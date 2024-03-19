@@ -8,11 +8,5 @@
 </div>
 
 <div align="center">
-  
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
-  
 </div>
-
- <a href="https://wakatime.com/@JonathasLopes">
-      <img  width="350" src="https://github-readme-stats.vercel.app/api/wakatime?username=JonathasLopes&show_icons=true&theme=algolia" alt="Jonathas's wakatime stats" />
- </a>
