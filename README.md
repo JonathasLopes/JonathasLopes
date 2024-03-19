@@ -13,3 +13,6 @@
   
 </div>
 
+ <a href="https://wakatime.com/@lucasvanni">
+      <img  width="350" src="https://github-readme-stats.vercel.app/api/wakatime?username=JonathasLopes&show_icons=true&theme=algolia" alt="Jonathas's wakatime stats" />
+ </a>
