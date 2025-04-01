@@ -1,13 +1,25 @@
-## Olá, seja Bem-vindo!
+# Olá, seja bem-vindo! 👋
 
-<div align="left">
-  <a href="https://github.com/JonathasLopes">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JonathasLopes&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-  <img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathaslopes&layout=compact&langs_count=3&theme=tokyonight"/>
-  </a>
-</div>
+Eu sou Jonathas, um entusiasta da programação apaixonado por criar soluções inovadoras. Atualmente, trabalho na FI Group em São Paulo, Brasil.
 
-Let's Programming!
+- 🌍 Localização: São Paulo, Brasil
+- 🏢 Empresa: FI Group
+- 💼 LinkedIn: [linkedin.com/in/jhowlopes/](https://www.linkedin.com/in/jhowlopes/)
+
+## Estatísticas do GitHub
+
+![Estatísticas do GitHub de Jonathas](https://github-readme-stats.vercel.app/api?username=JonathasLopes&show_icons=true&theme=dracula)
+
+## Repositórios Principais
+
+Aqui estão alguns dos meus repositórios em destaque:
+
+- [SendEmailService](https://github.com/JonathasLopes/SendEmailService): Serviço para envio de e-mails utilizando Handlebars.
+
+## Contato
+
+Sinta-se à vontade para entrar em contato comigo através do [LinkedIn](https://www.linkedin.com/in/jhowlopes/).
+
 
 <div align="center">
   
