@@ -8,8 +8,7 @@ Eu sou Jonathas, um entusiasta da programação apaixonado por criar soluções 
 
 ## Estatísticas do GitHub
 
-![Estatísticas do GitHub de Jonathas](https://github-readme-stats.vercel.app/api?username=JonathasLopes&show_icons=true&hide=contribs&theme=midnight-purple#gh-dark-mode-only)
-![Estatísticas do GitHub de Jonathas](https://github-readme-stats.vercel.app/api?username=JonathasLopes&show_icons=true&hide=contribs&theme=graywhite#gh-light-mode-only)
+![Estatísticas do GitHub de Jonathas](https://github-readme-stats.vercel.app/api?username=JonathasLopes&show_icons=true&hide=contribs&theme=midnight-purple)
 
 ## Repositórios Principais
 
