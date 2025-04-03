@@ -15,6 +15,7 @@ Eu sou Jonathas, um entusiasta da programação apaixonado por criar soluções 
 Aqui estão alguns dos meus repositórios em destaque:
 
 - [SendEmailService](https://github.com/JonathasLopes/SendEmailService): Serviço para envio de e-mails utilizando Handlebars.
+- [MyWedding](https://github.com/JonathasLopes/MyWedding): Meu site de casamento feito em React com Typescript.
 
 ## Contato
 
@@ -30,4 +31,7 @@ Sinta-se à vontade para entrar em contato comigo através do [LinkedIn](https:/
 
 ## Meus Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JonathasLopes&repo=SendEmailService&theme=midnight-purple#gh-dark-mode-only)](https://github.com/JonathasLopes/SendEmailService)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JonathasLopes&repo=SendEmailService&theme=midnight-purple#gh-dark-mode-only)](https://github.com/JonathasLopes/SendEmailService) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JonathasLopes&repo=myWedding&theme=midnight-purple#gh-dark-mode-only)](https://github.com/JonathasLopes/myWedding)
+
+## Minhas Top Linguagens
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonathasLopes&hide_progress=false)
